@@ -19,6 +19,9 @@ Download pretrained model from './weights/', change the test image path in file 
 ```
 python predict.py
 ```
+## result
+![result_1](https://github.com/CrazySummerday/ctpn.pytorch/raw/master/log/1.jpg)  
+![result_2](https://github.com/CrazySummerday/ctpn.pytorch/raw/master/log/2.jpg)  
 
 # references
 https://github.com/opconty/pytorch_ctpn  
